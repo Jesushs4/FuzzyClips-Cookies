@@ -1,8 +1,14 @@
 # Las galletas de la abuela María - Ejercicio de lógica difusa con Fuzzy CLIPS
 
-## Jesús Herrera Sánchez y Denisa Ramona Belean
+Jesús Herrera Sánchez y Denisa Ramona Belean
 
 ## Para la ejecución en FuzzyClips:
+
+# Para utilizar el script:
+
+Desde FuzzyClips, File > Load Batch > run.bat
+
+# Para ejecutarlo manualmente:
 
 Copia los archivos bc.clp y bh.clp en FuzzyCLIPS/galletas y cárgalos:
 ```

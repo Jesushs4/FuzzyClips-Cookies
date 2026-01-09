@@ -1,0 +1,7 @@
+(load "bc.clp")
+(load "bh.clp")
+(reset)
+(run)
+(plot-fuzzy-value t * 150 250 4)
+(maximum-defuzzify 4)
+(moment-defuzzify 4)
