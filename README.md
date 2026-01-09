@@ -4,11 +4,11 @@ Jesús Herrera Sánchez y Denisa Ramona Belean
 
 ## Para la ejecución en FuzzyClips:
 
-# Para utilizar el script:
+### Para utilizar el script:
 
 Desde FuzzyClips, File > Load Batch > run.bat
 
-# Para ejecutarlo manualmente:
+### Para ejecutarlo manualmente:
 
 Copia los archivos bc.clp y bh.clp en FuzzyCLIPS/galletas y cárgalos:
 ```
@@ -38,3 +38,4 @@ Centro de masas:
 (moment-defuzzify 4)
 ```
 Valor esperado: 206.25 ºC
+
